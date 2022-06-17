@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "genSurv"]
+	path = genSurv
+	url = https://github.com/arturstat/gensurv
+	shallow = true
+	registered = true
+[submodule "smoothHR"]
+	path = smoothHR
+	url = https://github.com/arturstat/smoothhr
+	shallow = true
+	registered = true
+[submodule "TPmsm"]
+	path = TPmsm
+	url = https://github.com/arturstat/tpmsm
+	shallow = true
+	registered = true
