@@ -1,14 +1,14 @@
 [
   {
-    "package": "genSurv",
-    "oncran": true
-  },
-  {
     "package": "smoothHR",
     "oncran": true
   },
   {
     "package": "TPmsm",
+    "oncran": true
+  },
+  {
+    "package": "genSurv",
     "oncran": true
   }
 ]
