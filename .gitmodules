@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TPmsm"]
+	path = TPmsm
+	url = https://github.com/arturstat/tpmsm
 [submodule "genSurv"]
 	path = genSurv
 	url = https://github.com/arturstat/gensurv
 [submodule "smoothHR"]
 	path = smoothHR
 	url = https://github.com/arturstat/smoothhr
-[submodule "TPmsm"]
-	path = TPmsm
-	url = https://github.com/arturstat/tpmsm
