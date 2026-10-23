@@ -5,6 +5,9 @@
 [submodule "TPmsm"]
 	path = TPmsm
 	url = https://github.com/arturstat/tpmsm
+[submodule "flexOR"]
+	path = flexOR
+	url = https://github.com/arturstat/flexor
 [submodule "genSurv"]
 	path = genSurv
 	url = https://github.com/arturstat/gensurv
